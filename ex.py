@@ -1,4 +1,4 @@
-G = graphs.RandomRegular(3, 12)
+
 show(G)
 
 

@@ -1,0 +1,5 @@
+var('x')
+g = Graphics()
+g += plot(0, (x,-10,10))
+g += plot((1-x^2)^(-1/2), (x, -10, 10))
+g.show()
