@@ -7,8 +7,8 @@ show(G)
 
 
 def fun(P,r,t):
-    A = P*r*t
-    return A
+    a = P*r*t
+    return a
 
 
 
