@@ -14,4 +14,4 @@ def fun_two(P,r,t,n):
 # Calculates amount invested (contin)
 def fun_three(P,r,t):
     A = P*e^(r*t)
-    return A
+    return 2*A
