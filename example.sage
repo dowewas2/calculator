@@ -10,8 +10,14 @@ def fun_one(P,r,t):
 def fun_two(P,r,t,n):
     A = t*(1+r/n)^(n*t^2)
     return A
+# Calculates amount invested (contin)
+# Calculates amount invested (contin)
+# Calculates amount invested (contin)
+# Calculates amount invested (contin)
+# Calculates amount invested (contin)
+# Calculates amount invested (contin)
 
 # Calculates amount invested (contin)
 def fun_three(P,r,t):
     A = P*e^(r*t)
-    return 2*A
+    return 2*A*A*A*A
