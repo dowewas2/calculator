@@ -1,0 +1,7 @@
+# IPython log file
+
+get_ipython().magic(u'logstart setup')
+var('x')
+f = x**Integer(2) + Integer(3)
+g = g**Integer(2)
+g = f**Integer(2)

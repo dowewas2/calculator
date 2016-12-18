@@ -1,0 +1,37 @@
+Script started on Tue 13 Dec 2016 02:34:04 PM CST
+[0;35mdowewas2[0;32m (master *)[0;34m calculator $ [0mdate
+Tue Dec 13 14:34:14 CST 2016
+[0;35mdowewas2[0;32m (master *)[0;34m calculator $ [0msage
+┌────────────────────────────────────────────────────────────────────┐
+│ SageMath version 7.2, Release Date: 2016-05-15                     │
+│ Type "notebook()" for the browser-based notebook interface.        │
+│ Type "help()" for help.                                            │
+└────────────────────────────────────────────────────────────────────┘
+[0;34msage: [0m3+3
+[0;31m[0m6
+[0;34msage: [0mgraph
+[0;31m---------------------------------------------------------------------------[0m
+[0;31mNameError[0m                                 Traceback (most recent call last)
+[0;32m<ipython-input-2-cad80f3b6f4e>[0m in [0;36m<module>[0;34m()[0m
+[0;32m----> 1[0;31m [0mgraph[0m[0;34m[0m[0m
+[0m
+[0;31mNameError[0m: name 'graph' is not defined
+[0;34msage: [0matat[K[Ktach"[K("ea[Kxample"[K.sage")
+[0;34msage: [0mmyit[Knt(x^3)
+[0;31m[0m1/4*x^4
+[0;34msage: [0m
+Exiting Sage (CPU time 0m2.15s, Wall time 1m1.83s).
+[0;35mdowewas2[0;32m (master *)[0;34m calculator $ [0mday
+12/13/16 :
+ * Tuesday
+ . Math 166 Section 6 09:00 - 09:50
+ . Michael 09:00 - 10:00
+ . Math 166 Section 8 @ carver 174 10:00 - 10:50
+ . Math 166 Section 10 11:00 - 11:50
+ . Math 607 12:40 - 13:55
+ . Discrete Seminar 14:15 - 15:00
+ . Meet with Leslie 15:10 - 16:00
+[0;35mdowewas2[0;32m (master *)[0;34m calculator $ [0mexit
+exit
+
+Script done on Tue 13 Dec 2016 02:35:33 PM CST
